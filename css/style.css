@@ -9,6 +9,8 @@ body {
     padding: 10px;
     background-color: #e8e8ff;
     width: 90%;
+    margin: auto;
+
    /*margin: 0 auto;*/
 }
 
@@ -85,11 +87,13 @@ width: 50%;
 
 .left{float: left;}
 
-.hover1 p a{border:solid 3px black;
-    border-radius: 25%;
-    background-color: rgba(211, 211, 211, 0.801);
+.hover1 p a{border: blanchedalmond ;
+    width: 150px;
+    color: black;
+    background-color: rgba(121, 113, 113, 0.253);
     text-decoration: none;
     display: inline-block;
+    text-align: center;
    }
    .hover1 p :hover{background-color: brown;
 }
